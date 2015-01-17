@@ -1,4 +1,6 @@
-Id | First Name | Last Name | Score 
+-----
+Id | First Name | Last Name | Score
+-----
 123 | John | Doe | 453
 124 | Jane | Doe | 453
 125 | Jackie | Doe | 453
